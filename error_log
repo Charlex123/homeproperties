@@ -1,0 +1,1222 @@
+[13-Jan-2020 09:20:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[13-Jan-2020 10:15:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'springvilleconcepts' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[13-Jan-2020 10:18:12 UTC] PHP Fatal error:  Uncaught Exception: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:33
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(136): dbh->__construct()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 33
+[13-Jan-2020 10:59:43 UTC] PHP Parse error:  syntax error, unexpected 'fas' (T_STRING), expecting ',' or ';' in /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php on line 352
+[13-Jan-2020 11:00:56 UTC] PHP Parse error:  syntax error, unexpected 'fas' (T_STRING), expecting ',' or ';' in /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php on line 352
+[13-Jan-2020 11:01:13 UTC] PHP Parse error:  syntax error, unexpected 'fas' (T_STRING), expecting ',' or ';' in /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php on line 352
+[14-Jan-2020 23:23:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 12:42:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:22:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:26:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:26:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:38:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:39:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:39:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:40:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:41:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:42:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:42:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:43:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:45:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'buyitch1_svc'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[15-Jan-2020 13:45:54 UTC] PHP Notice:  Undefined offset: 0 in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 245
+[15-Jan-2020 13:53:44 UTC] PHP Notice:  Undefined offset: 0 in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 245
+[15-Jan-2020 14:12:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 16
+[16-Jan-2020 00:41:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'springvilleconcepts'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php:37
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php(37): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 37
+[16-Jan-2020 01:22:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'springvilleconcepts'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php:184
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php(184): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 184
+[16-Jan-2020 01:22:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'springvilleconcepts'' in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php:184
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php(184): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 184
+[16-Jan-2020 10:31:08 UTC] PHP Notice:  Undefined variable: peroff in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 148
+[17-Jan-2020 22:09:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/adminpage.php on line 267
+[17-Jan-2020 22:09:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/adminpage.php on line 267
+[17-Jan-2020 22:09:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/adminpage.php on line 267
+[18-Jan-2020 16:56:36 UTC] PHP Notice:  A non well formed numeric value encountered in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 591
+[18-Jan-2020 16:56:36 UTC] PHP Notice:  Undefined variable: property_name in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 600
+[18-Jan-2020 16:56:36 UTC] PHP Notice:  A non well formed numeric value encountered in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 591
+[18-Jan-2020 16:56:36 UTC] PHP Notice:  Undefined variable: property_name in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 600
+[18-Jan-2020 16:57:03 UTC] PHP Notice:  A non well formed numeric value encountered in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 591
+[18-Jan-2020 16:57:03 UTC] PHP Notice:  Undefined variable: property_name in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 600
+[18-Jan-2020 16:57:03 UTC] PHP Notice:  A non well formed numeric value encountered in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 591
+[18-Jan-2020 16:57:03 UTC] PHP Notice:  Undefined variable: property_name in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 600
+[21-Jan-2020 15:27:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:27:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:27:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:27:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:28:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:28:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:28:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:28:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:28:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php:150
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php(150): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/check.php on line 150
+[21-Jan-2020 15:39:27 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 15:39:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 15:40:07 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 15:40:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 15:40:08 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 15:40:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:24:16 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:24:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:24:31 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:24:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:37:24 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:37:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:38:03 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:38:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:39:10 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:39:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:39:21 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:39:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:41:36 UTC] PHP Warning:  require_once(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:41:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/buyitch1/public_html/springvilleconcepts.com.ng/mailer.php on line 4
+[21-Jan-2020 19:43:53 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/buyitch1/public_html/springvilleconcepts.com.ng/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jan-2020 19:45:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/buyitch1/public_html/springvilleconcepts.com.ng/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jan-2020 19:45:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/buyitch1/public_html/springvilleconcepts.com.ng/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Jan-2020 20:01:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/reg.php on line 160
+[21-Jan-2020 20:35:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 4
+[21-Jan-2020 20:35:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 61
+[21-Jan-2020 20:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 61
+[21-Jan-2020 21:02:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method activate::getUserByUserid() in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 52
+[21-Jan-2020 21:04:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 25
+[21-Jan-2020 21:04:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 26
+[21-Jan-2020 21:13:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 61
+[21-Jan-2020 21:15:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 60
+[21-Jan-2020 21:22:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 68
+[21-Jan-2020 21:23:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:28:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:28:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:29:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:30:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 66
+[21-Jan-2020 21:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 68
+[21-Jan-2020 21:33:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:34:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:35:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:35:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:35:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:35:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 67
+[21-Jan-2020 21:36:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 4
+[21-Jan-2020 21:36:59 UTC] PHP Notice:  Undefined variable: Email in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 86
+[21-Jan-2020 21:36:59 UTC] PHP Notice:  Undefined variable: name in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 86
+[21-Jan-2020 21:36:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 87
+[21-Jan-2020 21:40:13 UTC] PHP Notice:  Undefined variable: Email in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 85
+[21-Jan-2020 21:40:13 UTC] PHP Notice:  Undefined variable: name in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 85
+[21-Jan-2020 21:40:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 86
+[21-Jan-2020 21:42:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 59
+[21-Jan-2020 21:44:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 55
+[21-Jan-2020 21:49:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 54
+[21-Jan-2020 21:51:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/ranStrGen.php:15) in /home/buyitch1/public_html/springvilleconcepts.com.ng/activate.php on line 54
+[21-Jan-2020 21:53:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/buyitch1/public_html/springvilleconcepts.com.ng/sign_in.php on line 5
+[21-Jan-2020 22:53:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/buyitch1/public_html/springvilleconcepts.com.ng/signin.php on line 5
+[21-Jan-2020 23:12:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'buyitch1_svc'@'localhost' to database 'starstv' in /home/buyitch1/public_html/springvilleconcepts.com.ng/checklogin.php:54
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/checklogin.php(54): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/checklogin.php on line 54
+[21-Jan-2020 23:29:51 UTC] PHP Notice:  Undefined index: userid in /home/buyitch1/public_html/springvilleconcepts.com.ng/checklogin.php on line 60
+[21-Jan-2020 23:56:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/signin.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/signin.php on line 133
+[21-Jan-2020 23:56:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/signin.php:1) in /home/buyitch1/public_html/springvilleconcepts.com.ng/signin.php on line 161
+[22-Jan-2020 00:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method dbh::fetchUserProfile() in /home/buyitch1/public_html/springvilleconcepts.com.ng/userpage.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/userpage.php on line 103
+[22-Jan-2020 08:28:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/buyitch1/public_html/springvilleconcepts.com.ng/adminpage.php:266) in /home/buyitch1/public_html/springvilleconcepts.com.ng/adminpage.php on line 267
+[22-Jan-2020 09:19:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/checklogin.php(7): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[22-Jan-2020 09:19:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/checklogin.php(7): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[22-Jan-2020 19:04:50 UTC] PHP Warning:  imagecreatefromjpeg(images/property_images/gwagwalada-commercial-3000m2-main.jpg): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 141
+[22-Jan-2020 19:17:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 282
+[22-Jan-2020 19:17:52 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 282
+[22-Jan-2020 19:17:57 UTC] PHP Warning:  imagecreatefrompng(images/property_images/maitama.png): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 150
+[22-Jan-2020 19:18:25 UTC] PHP Warning:  imagecreatefrompng(images/property_images/maitama.png): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 150
+[22-Jan-2020 19:18:26 UTC] PHP Warning:  imagecreatefrompng(images/property_images/maitama.png): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 150
+[22-Jan-2020 19:18:31 UTC] PHP Warning:  imagecreatefrompng(images/property_images/maitama.png): failed to open stream: No such file or directory in /home/buyitch1/public_html/springvilleconcepts.com.ng/postproperty.php on line 150
+[22-Jan-2020 19:23:38 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 282
+[22-Jan-2020 19:23:38 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 282
+[23-Jan-2020 14:19:37 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[23-Jan-2020 14:20:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[23-Jan-2020 18:20:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[25-Jan-2020 15:34:28 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[26-Jan-2020 11:44:12 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[26-Jan-2020 15:22:25 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[27-Jan-2020 16:51:56 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Jan-2020 12:37:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Jan-2020 14:41:15 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Jan-2020 14:41:32 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[31-Jan-2020 00:02:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[31-Jan-2020 18:07:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[31-Jan-2020 20:44:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[15-Feb-2020 13:19:44 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[22-Feb-2020 14:25:56 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[21-Mar-2020 00:07:49 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[21-Mar-2020 11:04:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[21-Mar-2020 14:43:36 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[22-Mar-2020 07:11:45 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[24-Mar-2020 09:18:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[25-Mar-2020 17:38:16 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Mar-2020 00:03:42 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Mar-2020 06:51:24 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Mar-2020 20:29:42 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[29-Mar-2020 05:30:23 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[29-Mar-2020 11:42:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[30-Mar-2020 01:07:31 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[06-Apr-2020 20:31:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[06-Apr-2020 20:34:15 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[06-Apr-2020 23:37:00 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-Apr-2020 01:11:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-Apr-2020 02:23:01 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-Apr-2020 03:29:18 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-Apr-2020 06:03:36 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[10-Apr-2020 01:09:38 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[17-Apr-2020 01:21:30 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[17-Apr-2020 03:24:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[17-Apr-2020 09:58:35 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[17-Apr-2020 11:00:09 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[20-Apr-2020 06:53:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[20-Apr-2020 07:25:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php:8
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php(8): PDO->__construct('mysql:host=loca...', 'buyitch1_svc', 'Charles@9845')
+#1 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(4): require_once('/home/buyitch1/...')
+#2 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/config.php on line 8
+[22-Apr-2020 04:31:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[22-Apr-2020 06:28:11 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-May-2020 10:47:57 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-May-2020 12:12:17 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-May-2020 12:48:55 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[07-May-2020 16:21:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[08-May-2020 01:10:19 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[08-May-2020 03:12:00 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[17-May-2020 04:45:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Jun-2020 22:15:37 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[19-Jun-2020 21:26:08 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[13-Jul-2020 17:12:23 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[23-Aug-2020 09:47:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[23-Aug-2020 15:52:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[23-Aug-2020 20:43:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[25-Aug-2020 21:53:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[25-Aug-2020 21:53:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 07:14:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 07:14:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 16:34:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 16:34:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 16:35:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 16:37:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 18:15:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Aug-2020 21:31:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 02:14:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 02:14:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 03:45:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 05:54:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 05:54:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 07:54:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 07:54:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 11:15:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Aug-2020 11:15:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[28-Aug-2020 10:12:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[28-Aug-2020 22:04:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Aug-2020 01:37:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Aug-2020 11:56:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Aug-2020 19:59:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Aug-2020 22:06:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Aug-2020 22:09:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[30-Aug-2020 12:56:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[30-Aug-2020 12:56:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[30-Aug-2020 12:56:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[30-Aug-2020 12:56:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[31-Aug-2020 12:14:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[31-Aug-2020 12:14:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[31-Aug-2020 17:50:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[02-Sep-2020 00:13:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[03-Sep-2020 07:22:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[03-Sep-2020 08:35:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[03-Sep-2020 17:00:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[04-Sep-2020 19:00:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[04-Sep-2020 19:00:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Sep-2020 01:53:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Sep-2020 01:53:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Sep-2020 01:53:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Sep-2020 01:53:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Sep-2020 00:07:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Sep-2020 00:19:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Sep-2020 15:54:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Sep-2020 16:57:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Sep-2020 20:46:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Sep-2020 21:03:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Sep-2020 23:36:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[08-Sep-2020 02:30:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[08-Sep-2020 19:29:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[08-Sep-2020 19:29:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Sep-2020 02:17:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Sep-2020 09:35:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Sep-2020 09:35:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Sep-2020 15:50:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[10-Sep-2020 16:57:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[10-Sep-2020 20:19:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[11-Sep-2020 00:46:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[11-Sep-2020 03:16:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[11-Sep-2020 03:58:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[11-Sep-2020 06:43:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[11-Sep-2020 09:19:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[12-Sep-2020 03:19:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[12-Sep-2020 03:19:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[13-Sep-2020 19:54:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[13-Sep-2020 19:54:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[14-Sep-2020 19:56:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[14-Sep-2020 21:44:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[15-Sep-2020 08:15:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[15-Sep-2020 13:50:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[16-Sep-2020 01:24:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[16-Sep-2020 03:58:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[16-Sep-2020 03:58:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[16-Sep-2020 08:46:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[16-Sep-2020 10:59:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:231
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(296): dbh->getPropertyListingView()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 231
+[16-Sep-2020 15:36:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[16-Sep-2020 20:02:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:231
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(296): dbh->getPropertyListingView()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 231
+[17-Sep-2020 14:19:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[17-Sep-2020 14:19:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[18-Sep-2020 03:18:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[18-Sep-2020 03:18:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[18-Sep-2020 22:47:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[18-Sep-2020 22:53:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[19-Sep-2020 01:25:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[19-Sep-2020 01:29:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[19-Sep-2020 11:19:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[19-Sep-2020 12:17:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[19-Sep-2020 15:06:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[20-Sep-2020 00:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[20-Sep-2020 03:03:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[20-Sep-2020 03:03:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[20-Sep-2020 12:50:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[20-Sep-2020 22:45:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[20-Sep-2020 22:48:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[21-Sep-2020 00:01:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[22-Sep-2020 08:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[22-Sep-2020 08:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[22-Sep-2020 10:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[22-Sep-2020 12:24:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[22-Sep-2020 14:04:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[22-Sep-2020 14:04:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[23-Sep-2020 09:48:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[23-Sep-2020 10:48:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[23-Sep-2020 13:02:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[24-Sep-2020 06:03:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[25-Sep-2020 00:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[25-Sep-2020 14:16:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[25-Sep-2020 14:55:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Sep-2020 04:05:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Sep-2020 04:05:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Sep-2020 09:43:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Sep-2020 12:02:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[26-Sep-2020 20:27:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Sep-2020 03:41:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Sep-2020 08:18:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Sep-2020 10:33:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[27-Sep-2020 18:46:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[28-Sep-2020 02:40:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[28-Sep-2020 02:40:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[28-Sep-2020 15:26:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[28-Sep-2020 15:26:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Sep-2020 04:05:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Sep-2020 09:56:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Sep-2020 10:06:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Sep-2020 13:43:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[29-Sep-2020 15:45:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[30-Sep-2020 14:47:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[01-Oct-2020 02:25:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[01-Oct-2020 06:44:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[01-Oct-2020 06:44:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[01-Oct-2020 08:34:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[01-Oct-2020 10:13:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[02-Oct-2020 05:38:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[02-Oct-2020 09:05:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[02-Oct-2020 11:33:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[02-Oct-2020 20:06:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[03-Oct-2020 19:30:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[04-Oct-2020 05:08:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[04-Oct-2020 06:01:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[04-Oct-2020 06:01:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Oct-2020 01:34:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Oct-2020 01:36:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Oct-2020 21:07:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Oct-2020 21:07:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Oct-2020 21:07:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[05-Oct-2020 21:07:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 11:08:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 11:42:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 12:25:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 16:49:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 17:12:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 17:18:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 19:12:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[06-Oct-2020 19:19:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 06:19:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 14:09:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 14:09:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 14:39:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 15:02:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 17:27:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[07-Oct-2020 20:08:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[08-Oct-2020 04:38:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Oct-2020 00:04:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Oct-2020 04:43:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Oct-2020 04:43:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[09-Oct-2020 09:26:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[10-Oct-2020 00:48:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[10-Oct-2020 06:09:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'buyitch1_svc.properties_table.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php:654
+Stack trace:
+#0 /home/buyitch1/public_html/springvilleconcepts.com.ng/index.php(187): dbh->getCarousel()
+#1 {main}
+  thrown in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 654
+[03-Nov-2020 01:37:55 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[10-Nov-2020 17:13:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[24-Nov-2020 03:06:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[24-Nov-2020 11:54:47 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[24-Nov-2020 13:09:22 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[24-Nov-2020 23:03:31 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[28-Nov-2020 09:02:59 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:15 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:15 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:24 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:25 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:27 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:27 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:50 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[05-Dec-2020 14:46:50 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131
+[13-Dec-2020 04:44:11 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/buyitch1/public_html/springvilleconcepts.com.ng/dbh.php on line 131

@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: #40474e;;margin-top: -2%;padding:0;color: #ffffff;
+    height: 3rem; 
+}
+header a {
+    color: #ffffff;
+}
+header a:hover {
+    color: #ece7e7;text-decoration: none;
+}
+.home {
+    margin: 2% 2% 4% 4%;padding-top: .6rem;padding-bottom: .8rem;font-family: 'Roboto';font-size: 1.1rem;color: white;
+}
+.img-fluid {
+    margin: 1.1rem auto 2rem auto;    
+}
+.col-12.enquires {
+    font-family: 'Chilanka';margin: 2rem auto;font-size: 1.4rem;text-transform: capitalize;
+}
+.contact-now {
+    font-weight: 500;text-transform: capitalize;margin: 1rem auto .8rem auto;font-family: 'Ubuntu';color: #4b5763;
+}
+.fooo {
+    padding: .5rem 0;font-family: 'Chilanka';text-transform: capitalize;font-size:1rem;color: #666a6e;
+}
